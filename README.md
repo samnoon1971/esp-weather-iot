@@ -4,8 +4,6 @@
 A DHT11 sensor based iot device
 
 
-
-
 ## Tools & Equipments
 
 

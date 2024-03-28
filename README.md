@@ -18,7 +18,7 @@ A DHT11 sensor based iot device
 - 9v Power adapter
 ## Authors
 
-- [@samnoon1971](https://www.github.com/samonoon1971)
+- [@samnoon1971](https://www.github.com/samnoon1971)
 
 
 ## Support
